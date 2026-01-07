@@ -1,0 +1,2 @@
+r = float(input("Enter the radius: "))
+print(f"{3.14 * r * r:.2f}")
