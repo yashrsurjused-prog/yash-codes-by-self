@@ -14,5 +14,5 @@ name
 Yash
 age
 19
-#Output:
+#Output: 
 {'name': 'Yash', 'age': '19'}
